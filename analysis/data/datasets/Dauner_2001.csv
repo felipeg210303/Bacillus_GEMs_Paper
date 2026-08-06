@@ -1,0 +1,10 @@
+condition,reactions,import fluxes,experimental growth
+Glucose,EX_glc__D_e,-1.8,0.1
+Glucose; acetate,EX_glc__D_e; EX_ac_e,-1.45; -1.65,0.1
+Glucose; citrate,EX_glc__D_e; EX_cit_e,-1.55; -0.5,0.1
+Glucose; gluconate,EX_glc__D_e; EX_glcn__D_e,-1.55; -0.6,0.12
+Glucose; acetoin,EX_glc__D_e; EX_actn__R_e,-2.2; -0.5,0.12
+Glucose,EX_glc__D_e,-1.7,0.1
+Glucose,EX_glc__D_e,-3.2,0.2
+Glucose,EX_glc__D_e,-4.7,0.3
+Glucose,EX_glc__D_e,-6.2,0.4

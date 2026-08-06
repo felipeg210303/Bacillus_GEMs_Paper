@@ -1,0 +1,29 @@
+pathway,ID,Reaction,experimental_flux
+EMP,GLCpts,Phosphotransferase system,7.63
+EMP,PGI,Glucose-6-phosphate isomerase,4.159
+EMP,PFK,Phosphofructokinase,6.005
+EMP,FBA,Fructose bisphosphate aldolase,6.005
+EMP,TPI,Triose phosphate isomerase,6.005
+EMP,GAPD,Glyceraldehyde-3-phosphate dehydrogenase,11.577
+EMP,PGK,Phosphoglycerate kinase,11.577
+EMP,PGM,Phosphoglycerate mutase,11.577
+EMP,ENO,Enolase,11.577
+EMP,PYK,Pyruvate kinase,3.944
+TCA,CS,Citrate synthase,
+TCA,ACONT,Aconitase,3.353
+TCA,ICDHyr,Isocitrate dehydrogenase,3.353
+TCA,AKGDH,Alpha-ketoglutarate dehydrogenase,2.638
+TCA,SUCOAS,Succinyl-CoA synthetase,2.638
+TCA,SUCD1,Succinate dehydrogenase,2.638
+TCA,FUM,Fumarase,2.638
+TCA,MDH,Malate dehydrogenase,1.878
+TCA,PDH,Pyruvate dehydrogenase complex,7.405
+TCA,PC,Pyruvate carboxylase,3.504
+PPP,G6PDH2r,Glucose-6-phosphate dehydrogenase,3.297
+PPP,PGL,6-phosphogluconolactonase,3.297
+PPP,GND,6-phosphogluconate dehydrogenase,3.297
+PPP,RPI,Ribose-5-phosphate isomerase,1.451
+PPP,RPE,Ribulose-5-phosphate 3-epimerase,1.846
+PPP,TKT1,Transketolase reaction 1,1.055
+PPP,TALA,Transaldolase,1.055
+PPP,TKT2,Transketolase reaction 2,0.791

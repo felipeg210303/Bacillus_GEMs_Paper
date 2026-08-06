@@ -1,0 +1,29 @@
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.bbl-SAVE-ERROR
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+
+# Office lock files
+~$*.xlsx
+~$*.xls
+~$*.docx
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Editor
+.vscode/
+
+# Editor/tooling
+.claude/

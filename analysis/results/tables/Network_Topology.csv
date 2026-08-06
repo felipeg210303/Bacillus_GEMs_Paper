@@ -1,0 +1,8 @@
+Metric,iYO844,iBsu1103,iBsu1103v2,iBsu1147,eciYO844,iBsu1209,iBB1018,iBsu1147R,ecBSU1,Submodel
+Universally Blocked Reactions,291,419,391,377,293,841,282,805,ERRORED,826
+Orphan Metabolites,49,58,58,67,48,84,79,67,67,185
+Dead-end Metabolites,122,96,94,104,124,145,93,105,108,255
+Stoichiometrically Balanced Cycles,21,331,307,76,17,178,34,80,ERRORED,129
+Metabolite Production In Complete Medium,107,310,294,358,108,506,301,371,ERRORED,681
+Metabolite Consumption In Complete Medium,262,380,352,446,264,860,21,740,ERRORED,846
+Genes without Gene-Protein-Reaction (GPR) Associations,117,244,249,193,117,172,1,193,323,1756

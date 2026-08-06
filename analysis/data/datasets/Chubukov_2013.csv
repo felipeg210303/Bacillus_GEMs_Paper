@@ -1,0 +1,9 @@
+condition,reactions,import fluxes,experimental growth
+Glucose,EX_glc__D_e,-7.63,0.59
+Gluconate,EX_glcn__D_e,-5.13,0.42
+Glycerol,EX_glyc_e,-6.22,0.4
+Malate,EX_mal__L_e,-26.51,0.57
+Malate; Glucose,EX_mal__L_e; EX_glc__D_e,-14.6; -5.95,0.75
+Pyruvate,EX_pyr_e,-8.26,0.17
+Succinate; L-Glutamate,EX_succ_e; EX_glu__L_e,-3.35; -2.21,0.22
+Fructose,EX_fru_e,-5.72,0.53
